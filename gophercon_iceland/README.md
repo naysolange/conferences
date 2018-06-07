@@ -1,4 +1,6 @@
 # Gophercon Iceland 2018
+![gophercon](gophercon_iceland.png)
+
 
 ## Training Day
 *May 31st, Reykjavik University* <br/>
