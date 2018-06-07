@@ -143,11 +143,11 @@ http://katzien.com
 ------------
 
 
-#### Operating live on kubernetes operators
+#### Operating live on Kubernetes operators
 **Speaker**<br/>
 [Kris Nova](http://twitter.com/krisnova "Kris Nova")<br/>
-**Resources**
-
+**Resources**<br />
+https://github.com/kris-nova/puffin-operator
 
 ------------
 
