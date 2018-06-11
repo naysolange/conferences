@@ -126,8 +126,8 @@ http://peter.bourgon.org/go-for-industrial-programming/
 #### Internal Architecture of Delve, a Debugger for Go
 **Speaker**<br/>
 [Alessandro Arzilli](https://github.com/aarzilli "Alessandro Arzilli")<br/>
-**Resources**
-
+**Resources**<br/>
+https://speakerdeck.com/aarzilli/internal-architecture-of-delve
 
 ------------
 
